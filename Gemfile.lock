@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    domain_name (0.5.18)
+      unf (>= 0.0.5, < 1.0.0)
+    http-cookie (1.0.2)
+      domain_name (~> 0.5)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  http-cookie
